@@ -21,8 +21,8 @@ This is a Streamlit-based web application that provides an automated data analys
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd Streamlit_app
+   git clone https://github.com/sanniv0/Automated-Data-Analyzer.git
+   cd Automated-Data-Analyzer
    ```
 2. Install dependencies. It is highly recommended to create a virtual environment first:
    ```bash
