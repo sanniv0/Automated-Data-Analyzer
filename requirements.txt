@@ -1,5 +1,6 @@
 streamlit
 pandas
+lazypredict
 numpy
 matplotlib
 seaborn
